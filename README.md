@@ -7,3 +7,4 @@
 
 如何运行：说明下载代码后，用浏览器打开  index.html  即可。
 https://github.com/xukai0527/scsf.git
+git@github.com:xukai0527/scsf.git
